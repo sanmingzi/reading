@@ -16,3 +16,7 @@ https://opac.lib.utsz.edu.cn/Search/searchdetail.jsp?v_tablearray=bibliosm,serbi
 
 - Rust程序设计 (Programming Rust)
 - Rust权威指南 (The rust programming language)
+
+## Shell
+
+- shell脚本实战 = Wicked cool Shell scripts
