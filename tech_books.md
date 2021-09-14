@@ -11,3 +11,8 @@
 https://opac.lib.utsz.edu.cn/Search/searchdetail.jsp?v_tablearray=bibliosm,serbibm,apabibibm,mmbibm,&v_recno=4333243&v_curtable=bibliosm&site=null&library=F44010
 
 https://opac.lib.utsz.edu.cn/Search/searchdetail.jsp?v_tablearray=bibliosm,serbibm,apabibibm,mmbibm,&v_recno=3970900&v_curtable=bibliosm&site=null&library=F44010
+
+## Rust
+
+- Rust程序设计 (Programming Rust)
+- Rust权威指南 (The rust programming language)
